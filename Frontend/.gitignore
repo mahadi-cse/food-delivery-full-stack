@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# IDE settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+
+# Ignore assets directory
+src/assets/
